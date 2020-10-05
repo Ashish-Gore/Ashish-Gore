@@ -32,7 +32,7 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Deep Learning Techniques; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [+91-9028885821](href="tel:+91-9028885821");
+- 📫 How to reach me: [+91-9028885821](tel:+91-9028885821);
 - 📝[Resume](https://ashishgore.ml/files/Ashish_cv.pdf)
 
 **Languages and Tools:**  
@@ -46,7 +46,6 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://ashishgore.ml/images/skills/html.png"></code>
 <code><img height="20" src="https://ashishgore.ml/images/skills/pyspark.png"></code>
 <code><img height="20" src="https://ashishgore.ml/images/projects/nlp.png"></code>
-<code><img height="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5-OUFzNQh5WoxU_-dHKUHGzar1zQ31SJiIQ&usqp=CAU"></code>
 
 
 📊 **This Week I Spent My Time On:**
