@@ -30,12 +30,12 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Deep Learning Techniques; 
-- 💬 Ask me about anything, I am happy to help;
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: <a href="tel:+91-9028885821"></a>;
+- 📫 How to reach me: +91-9028885821;
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 - 📝[Resume](https://ashishgore.ml/files/Ashish_cv.pdf)
 
-**Languages and Tools:**  
+**Languages and Tools Used:**  
 
 <code><img height="20" src="https://ashishgore.ml/images/skills/R.png"></code>
 <code><img height="20" src="https://ashishgore.ml/images/skills/python.png"></code>
@@ -46,6 +46,12 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://ashishgore.ml/images/skills/html.png"></code>
 <code><img height="20" src="https://ashishgore.ml/images/skills/pyspark.png"></code>
 <code><img height="20" src="https://ashishgore.ml/images/projects/nlp.png"></code>
+
+
+<code><img height="20" src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=social"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git&style=social"></code>
+<code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social"></code>
 
 
 <details>
