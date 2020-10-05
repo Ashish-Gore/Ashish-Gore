@@ -32,7 +32,7 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Deep Learning Techniques; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="tel:9028885821"> ;
+- 📫 How to reach me: <a href="tel:+91-9028885821"> ;
 - 📝[Resume](https://ashishgore.ml/files/Ashish_cv.pdf)
 
 **Languages and Tools:**  
