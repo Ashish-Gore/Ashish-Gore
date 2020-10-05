@@ -1,21 +1,21 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><p align="center">
 <a href="https://ashishgore.ml/">
-  <p align="center"><img align="left" alt="Ashish's Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Ashish's Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/Ashish17969125">
-  <p align="center"><img align="left" alt="Ashish Gore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ashish Gore | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ashish-gore234/">
-  <p align="center"><img align="left" alt="Ashish's LinkdeIN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ashish's LinkdeIN Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ashish_gore234">
-  <p align="center"><img align="left" alt="Ashish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Ashish's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/ash.gore/">
-  <p align="center"><img align="left" alt="Ashish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ashish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:ashish.gore234@gmail.com">
-  <p align="center"><img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Ashish-Gore.Ashish-Gore)
@@ -53,6 +53,7 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Gore&show_icons=true&theme=gotham" alt="Ashish-Gore" />
 
 </details>
-
+![Ashish's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashish-Gore&count_private=true&show_icons=true&include_all_commits=true)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX&layout=compact)
 
 
