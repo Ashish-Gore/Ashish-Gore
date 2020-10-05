@@ -53,7 +53,15 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Gore&show_icons=true&theme=gotham" alt="Ashish-Gore" />
 
 </details>
-![Ashish's Github Stats](https://github-readme-stats.vercel.app/api?username=Ashish-Gore&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX&layout=compact)
+<br />
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX&layout=compact" />
+
+</details>
+
+
 
 
