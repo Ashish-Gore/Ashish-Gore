@@ -25,14 +25,14 @@
 
 Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 from India, currently, I'm a Data Science Intern 🙍🏽‍♂️ [@Innodatatics Inc.](https://innodatatics.com/), I built Machine Learning Models for Innodatatics using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. I have Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. Also I am a Double Post Graduate From one of the Pune university's Best Ranked College. I am Former Employee of Flipkart India Pvt Ltd.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Deep Learning Techniques; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="tel:+91-9028885821"> ;
+- 📫 How to reach me: [+91-9028885821](href="tel:+91-9028885821");
 - 📝[Resume](https://ashishgore.ml/files/Ashish_cv.pdf)
 
 **Languages and Tools:**  
