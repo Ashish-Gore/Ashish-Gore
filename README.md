@@ -48,27 +48,6 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://ashishgore.ml/images/projects/nlp.png"></code>
 
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Vue.js       6 hrs 5 mins    ████████████░░░░░░░░░░░░░   48.33 % 
-JavaScript   2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-C++          2 hrs 16 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.03 % 
-JSON         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-```
-<!--END_SECTION:waka-->
-
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  4,763 Karma Points           
-🌸  Completed 7 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 297 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
-
-
 <details>
 <summary>📈 My GitHub Stats</summary>
 
