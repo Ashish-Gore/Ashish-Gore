@@ -15,14 +15,14 @@
   <img align="left" alt="Ashish's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="mailto:ashish.gore234@gmail.com">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Ashish's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Ashish-Gore.Ashish-Gore)
 
 <br />
 
-Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 from India, currently, I'm a Data Science Intern 🙍🏽‍♂️ [@Innodatatics Inc.](https://innodatatics.com/), I built Machine Learning Models for Innodatatics using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. I have Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. Also I am a Double Post Graduate From one of the Pune university's Best Ranked College. I am Former Employee of Flipkart India Pvt Ltd.
+Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 from India, currently, I'm a Data Science Intern 🙍🏽‍♂️ [@Innodatatics Inc.](https://innodatatics.com/), I built Machine Learning Models for Innodatatics using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. A Double Post Graduate From one of the Pune university's Best Ranked College. Also Former Employee of Flipkart India Pvt Ltd.
 
   <img align="right" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -31,7 +31,8 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Deep Learning Techniques; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [+91-9028885821](tel:+91-9028885821);
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: <a href="tel:+91-9028885821"><img alt="Ashish's Phone" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" /></a>;
 - 📝[Resume](https://ashishgore.ml/files/Ashish_cv.pdf)
 
 **Languages and Tools:**  
@@ -56,9 +57,9 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <br />
 
 <details>
-<summary>📈 My GitHub Stats</summary>
+<summary>📈 Top Tools Worked on</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX&layout=compact" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX" />
 
 </details>
 
