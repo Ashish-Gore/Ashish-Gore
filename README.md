@@ -52,22 +52,7 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git&style=social"></code>
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social"></code>
-
-<details><p align="left">
-<summary>📈 My GitHub Stats</summary>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Gore&show_icons=true&theme=gotham" alt="Ashish-Gore" />
-
-</details>
-<br />
-
-<details><p align="right">
-<summary>📈 Top Tools Worked on</summary>
-
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX" />
-
-</details>
-
+<br /><br />
 <a href="https://aimagic.tech/">
 <p align="center"> Visit My Website Here:
 </a>
