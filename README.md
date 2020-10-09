@@ -69,6 +69,8 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 
 </details>
 
-
-
+**Visit My Website Here:** 
+<a href="https://aimagic.tech/">
+<img align="centre" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/aimagic.tech.gif?raw=true" width="640" height="360" />
+</a>
 
