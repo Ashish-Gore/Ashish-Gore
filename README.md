@@ -53,19 +53,18 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git&style=social"></code>
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social"></code>
 
-
-<details>
+<details><p align="left">
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Gore&show_icons=true&theme=gotham" alt="Ashish-Gore" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Ashish-Gore&show_icons=true&theme=gotham" alt="Ashish-Gore" />
 
 </details>
 <br />
 
-<details>
+<details><p align="right">
 <summary>📈 Top Tools Worked on</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Gore&hide=TeX" />
 
 </details>
 
@@ -76,4 +75,11 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <a href="https://aimagic.tech/">
 <img align="centre" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/aimagic.tech.gif?raw=true" width="640" height="360" />
 </a>
-
+<br />
+<a href="https://ashishgore.ml/">
+<p align="center"> Visit My Web Portfoilio Here:
+</a>
+<br />
+<a href="https://ashishgore.ml/">
+<img align="centre" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/Ashish's%20web%20Portfolio.gif?raw=true" width="640" height="360" />
+</a>
