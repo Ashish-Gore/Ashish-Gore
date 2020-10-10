@@ -53,6 +53,8 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git&style=social"></code>
 <code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social"></code>
 <br /><br />
+
+<h2><i>Visit Me Here:</i></h2>
 <a href="https://aimagic.tech/">
 <p align="center"> Visit My Website Here:
 </a>
@@ -68,3 +70,25 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <a href="https://ashishgore.ml/">
 <img align="centre" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/Ashish's%20web%20Portfolio.gif?raw=true" width="640" height="360" />
 </a>
+
+
+
+<h2><i>Hire my Services:</i></h2>
+<div  align="center">
+
+  <a href="mailto:ashish.gore234@gmail.com" mailto="ashish.gore234@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+  <a href="https://www.freelancer.com/u/ashishgore234" target="_blank">
+    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
+  </a>
+  <a href="https://www.fiverr.com/ashish_gore" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-%231877F2.svg?&style=flat-square&logo=fiverr&logoColor=white&color=071A2C" alt="Fiverr">
+  </a>
+  <a href="https://aimagic.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/aimagic.tech-%231877F2.svg?&style=flat-square&logo=aimagic.tech&logoColor=white&color=071A2C" alt="aimagic.tech">
+  </a>
+
+</div>
+
+
