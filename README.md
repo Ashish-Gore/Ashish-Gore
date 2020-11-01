@@ -33,6 +33,7 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: +91-9028885821;
 - ⚡ Fun fact: My first line of code was not "Hello World!"
+- 🤖 Want to Know More About me? [Talk to my Chatbot!!](https://ashishgore.ml/)
 - 📝[Resume](https://ashishgore.ml/files/Ashish_cv.pdf)
 
 **Languages and Tools Used:**  
