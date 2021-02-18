@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><p align="center">
-<a href="https://ashishgore.ml/">
+<a href="https://www.ashishgore.com/">
   <img align="left" alt="Ashish's Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/Ashish17969125">
@@ -22,31 +22,31 @@
 
 <br />
 
-Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 from India, currently, I'm a Data Science Intern 🙍🏽‍♂️ [@Innodatatics Inc.](https://innodatatics.com/), I built Machine Learning Models for Innodatatics using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. A Double Post Graduate From one of the Pune university's Best Ranked College. Also Former Employee of Flipkart India Pvt Ltd.
+Hi, I'm [Ashish Gore](https://www.ashishgore.com/), a Data Science Enthusiast 🚀 from India, currently, I'm a Data Science Intern 🙍🏽‍♂️ [@Innodatatics Inc.](https://innodatatics.com/), I built Machine Learning Models for Innodatatics using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. A Double Post Graduate From one of the Pune university's Best Ranked College. Also Former Employee of Flipkart India Pvt Ltd.
 
   <img align="right" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Deep Learning Techniques; 
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 🌱 I’m currently learning Deep Learning Techniques;
+- 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📫 How to reach me: +91-9028885821;
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://ashishgore.ml/) Or [My Telegram bot Here](http://t.me/Ashish_chatbot)
-- 📝[Resume](https://ashishgore.ml/files/Ashish_Gore_CV.pdf)
+- 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.ashishgore.com/) Or [My Telegram bot Here](http://t.me/Ashish_chatbot)
+- 📝[Resume](https://www.ashishgore.com/files/Ashish_Gore_CV.pdf)
 
 **Languages and Tools Used:**  
 
-<code><img height="20" src="https://ashishgore.ml/images/skills/R.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/python.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/cloud.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/tableau.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/sql.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/excel.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/html.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/skills/pyspark.png"></code>
-<code><img height="20" src="https://ashishgore.ml/images/projects/nlp.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/R.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/python.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/cloud.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/tableau.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/sql.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/excel.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/html.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/pyspark.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/projects/nlp.png"></code>
 
 
 <code><img height="20" src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=social"></code>
@@ -64,11 +64,11 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
 <img align="centre" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/aimagic.tech.gif?raw=true" width="640" height="360" />
 </a>
 <br />
-<a href="https://ashishgore.ml/">
+<a href="https://www.ashishgore.com/">
 <p align="center"> Visit My Web Portfoilio Here:
 </a>
 <br />
-<a href="https://ashishgore.ml/">
+<a href="https://www.ashishgore.com/">
 <img align="centre" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/Ashish's%20web%20Portfolio.gif?raw=true" width="640" height="360" />
 </a>
 
@@ -91,5 +91,3 @@ Hi, I'm [Ashish Gore](https://ashishgore.ml/), a Data Science Enthusiast 🚀 fr
   </a>
 
 </div>
-
-
