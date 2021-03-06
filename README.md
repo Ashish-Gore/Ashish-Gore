@@ -22,7 +22,7 @@
 
 <br />
 
-Hi, I'm [Ashish Gore](https://www.ashishgore.com/), a Data Science Enthusiast 🚀 from India, currently, I'm a Data Science Intern 🙍🏽‍♂️ [@Innodatatics Inc.](https://innodatatics.com/), I built Machine Learning Models for Innodatatics using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. A Double Post Graduate From one of the Pune university's Best Ranked College. Also Former Employee of Flipkart India Pvt Ltd.
+Hi, I'm [Ashish Gore](https://www.ashishgore.com/), a Data Science Enthusiast 🚀 from India, I'm a Data Scientist 🙍🏽‍♂️ [@bluCognition](https://www.blucognition.com/), I built Machine Learning Models for bluCognition using Python. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience working on projects in similar areas. I am an Engineer with very good technical Knowledge. A Double Post Graduate From one of the Pune university's Best Ranked College. Also Former Employee of Flipkart India Pvt Ltd.
 
   <img align="right" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/code.gif?raw=true" width="500" height="320" />
 
